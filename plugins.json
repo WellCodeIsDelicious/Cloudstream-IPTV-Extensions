@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions",
+        "fileSize": 14836,
+        "status": 1,
+        "language": "universal",
+        "authors": [
+            "DistantCode"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": -1,
+        "internalName": "ExampleProvider",
+        "description": "Lorem ipsum",
+        "url": "https://raw.githubusercontent.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions/builds/ExampleProvider.cs3",
+        "name": "ExampleProvider"
+    }
+]
