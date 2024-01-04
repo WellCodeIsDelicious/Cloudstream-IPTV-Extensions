@@ -1,6 +1,6 @@
 {
-    "name": "Cloudstream providers repository",
-    "description": "Cloudstream extension Repository",
+    "name": "DistantIPTV",
+    "description": "Cloudstream's Best IPTV Extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions/builds/plugins.json"
