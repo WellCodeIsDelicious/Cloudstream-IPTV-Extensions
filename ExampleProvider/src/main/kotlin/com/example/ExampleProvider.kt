@@ -9,7 +9,7 @@ import java.io.InputStream
 
 class DistantIPTVProvider : MainAPI() {
     override var lang = "jp"
-    override var mainUrl = "https://raw.githubusercontent.com/take2560/takelab/main/jp.m3u"
+    override var mainUrl = "https://github.com/Diptv24/d531/raw/main/d531"
     override var name = "Distant-TV"
     override val hasMainPage = true
     override val hasChromecastSupport = true
