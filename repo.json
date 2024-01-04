@@ -1,0 +1,8 @@
+{
+    "name": "Cloudstream providers repository",
+    "description": "Cloudstream extension Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions/builds/plugins.json"
+    ]
+}
