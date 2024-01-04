@@ -11,3 +11,4 @@ class DistantIPTVProviderPlugin: Plugin() {
         registerMainAPI(DistantIPTVProvider())
     }
 }
+
