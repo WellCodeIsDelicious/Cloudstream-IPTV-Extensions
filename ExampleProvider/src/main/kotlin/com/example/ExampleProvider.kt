@@ -8,7 +8,7 @@ import com.lagradost.cloudstream3.utils.Qualities
 import java.io.InputStream
 
 class DistantIPTVProvider : MainAPI() {
-    override var lang = "jp"
+    override var lang = "universal"
     override var mainUrl = "https://github.com/WellCodeIsDelicious/Cloudstream-IPTV-Extensions/raw/master/test.m3u8"
     override var name = "Distant-TV"
     override val hasMainPage = true
