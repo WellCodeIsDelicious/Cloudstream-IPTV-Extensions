@@ -9,7 +9,7 @@ import java.io.InputStream
 
 class DistantIPTVProvider : MainAPI() {
     override var lang = "universal"
-    override var mainUrl = "https://store11.gofile.io/download/1647f0ae-c44e-4f8a-8e58-c9e1c2b2500a/test.m3u"
+    override var mainUrl = "http://line.ottcdn.net/get.php?username=rw4axjxjya&password=gr5ham9acn&type=m3u_plus&output=ts"
     override var name = "Distant-TV"
     override val hasMainPage = true
     override val hasChromecastSupport = true
